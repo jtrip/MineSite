@@ -7,3 +7,11 @@ A simple html/css/js bootstrap site for community minecraft servers
 This project will be used as a homepage for i3Detroit's self hosted Minecraft server.
 
 http://space.i3detroit.org:8080/
+
+
+To Do
+=====
+* make screenshot request stand out  
+* move server info off front page.. rules page?  
+* extend twitter widget  
+* make a page with embedded imgur album? (instead of just linking)
