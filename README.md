@@ -13,6 +13,6 @@ To Do
 =====
 * ~~change the banner~~
 * make screenshot request stand out  
-* move server info off front page.. rules page?  
-* extend twitter widget  
+* ~~move server info off front page~~.. rules page?  
+* ~~extend twitter widget~~  
 * make a page with embedded imgur album? (instead of just linking)
