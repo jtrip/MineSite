@@ -11,6 +11,7 @@ http://space.i3detroit.org:8080/
 
 To Do
 =====
+* change the banner
 * make screenshot request stand out  
 * move server info off front page.. rules page?  
 * extend twitter widget  
