@@ -9,3 +9,12 @@ This is the original, just built off the basic jumbotron example.
   
 The i3Detroit organization runs a fork visible at:  
 http://space.i3detroit.org:8080/
+
+
+To Do
+=====
+* ~~change the banner~~
+* make screenshot request stand out  
+* ~~move server info off front page~~.. rules page?  
+* ~~extend twitter widget~~  
+* make a page with embedded imgur album? (instead of just linking)
